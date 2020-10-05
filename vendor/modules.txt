@@ -1,9 +1,16 @@
 # github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
 ## explicit
 github.com/erikstmartin/go-testdb
+# github.com/google/uuid v1.1.1
+github.com/google/uuid
 # github.com/kellydunn/golang-geo v0.7.0
 ## explicit
 github.com/kellydunn/golang-geo
+# github.com/kr/pretty v0.2.0
+## explicit
+github.com/kr/pretty
+# github.com/kr/text v0.1.0
+github.com/kr/text
 # github.com/kylelemons/go-gypsy v1.0.0
 ## explicit
 github.com/kylelemons/go-gypsy/yaml
@@ -20,3 +27,19 @@ github.com/tkrajina/gpxgo/gpx
 github.com/ziutek/mymysql/godrv
 github.com/ziutek/mymysql/mysql
 github.com/ziutek/mymysql/native
+# go.opencensus.io v0.22.3
+go.opencensus.io/internal/tagencoding
+go.opencensus.io/metric/metricdata
+go.opencensus.io/metric/metricproducer
+go.opencensus.io/resource
+go.opencensus.io/stats
+go.opencensus.io/stats/internal
+go.opencensus.io/stats/view
+go.opencensus.io/tag
+# golang.org/x/time v0.0.0-20200416051211-89c76fbcd5d1
+golang.org/x/time/rate
+# googlemaps.github.io/maps v1.2.2
+## explicit
+googlemaps.github.io/maps
+googlemaps.github.io/maps/internal
+googlemaps.github.io/maps/metrics
