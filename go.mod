@@ -9,6 +9,7 @@ require (
 	github.com/kr/pretty v0.2.0
 	github.com/kylelemons/go-gypsy v1.0.0 // indirect
 	github.com/lib/pq v1.8.0 // indirect
+	github.com/paypal/gatt v0.0.0-20151011220935-4ae819d591cf
 	github.com/tkrajina/gpxgo v1.0.1
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	googlemaps.github.io/maps v1.2.2

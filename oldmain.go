@@ -12,7 +12,7 @@ import (
 	"os"
 )
 
-func main() {
+func oldmain() {
 	pathToGpx := "/Users/mgauto/Downloads/Home-to-Mosaic.gpx"
 	gpxBytes, err := ioutil.ReadFile(pathToGpx)
 	if err != nil {

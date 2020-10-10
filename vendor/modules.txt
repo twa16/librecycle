@@ -1,3 +1,5 @@
+# github.com/adrianmo/go-nmea v1.3.0
+## explicit
 # github.com/erikstmartin/go-testdb v0.0.0-20160219214506-8d10e4a1bae5
 ## explicit
 github.com/erikstmartin/go-testdb
@@ -19,6 +21,17 @@ github.com/kylelemons/go-gypsy/yaml
 github.com/lib/pq
 github.com/lib/pq/oid
 github.com/lib/pq/scram
+# github.com/paypal/gatt v0.0.0-20151011220935-4ae819d591cf
+## explicit
+github.com/paypal/gatt
+github.com/paypal/gatt/examples/option
+github.com/paypal/gatt/linux
+github.com/paypal/gatt/linux/cmd
+github.com/paypal/gatt/linux/evt
+github.com/paypal/gatt/linux/gioctl
+github.com/paypal/gatt/linux/socket
+github.com/paypal/gatt/linux/util
+github.com/paypal/gatt/xpc
 # github.com/tkrajina/gpxgo v1.0.1
 ## explicit
 github.com/tkrajina/gpxgo/gpx

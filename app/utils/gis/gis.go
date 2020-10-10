@@ -1,0 +1,5 @@
+package gis
+
+func GetBearingBetweenPoints() {
+
+}
